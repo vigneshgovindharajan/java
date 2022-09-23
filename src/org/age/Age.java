@@ -9,6 +9,7 @@ public class Age {
 	}
 else{
 		System.out.println("not eligible for vote");
+		System.out.println("not eligible");
 	}
 
 }
